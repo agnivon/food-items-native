@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "food-items",
+  "short_name": "food-items",
+  "start_url": "/?utm_source=web_app_manifest"
+}
